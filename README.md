@@ -3,7 +3,7 @@
 # Flavio de Andrade Silva
 
 ## Sobre Mim
-Formado em Ciências e Tecnologia e me graduando em Engenharia de Telecomunicações, atuo como Analista de TI e possuo experiência na área de redes de computadores, programação e Cloud. Busco conhecer, aprender e implementar estratégias de migração de aplicações para a Cloud, visando a redução de custos e o aumento de desempenho. Para isso, tirei a certificação AWS Cloud Practitioner e estou realizando o curso para a certificação em FinOps Practitioner. Almejo atuar como Analista de DevOps Jr / Analista de Cloud Jr, contribuindo com o suporte, customização e melhorias das implementações em nuvem. Bem como ajudar na redução de custos com a prática do FinOps.
+Formado em Ciências e Tecnologia e me graduando em Engenharia de Telecomunicações, atuo como Analista de TI e possuo experiência na área de redes de computadores, programação e Cloud. Busco conhecer, aprender e implementar estratégias de migração de aplicações para a Cloud, visando a redução de custos e o aumento de desempenho. Para isso, tirei a certificação AWS Cloud Practitioner, AWS Developer Associate e a certificação em FinOps Practitioner. Almejo atuar como Analista de DevOps / Analista de Cloud, contribuindo com o suporte, customização e melhorias das implementações em nuvem. Bem como ajudar na redução de custos com a prática do FinOps.
 
 <h3 align="left">Contato</h3>
 
@@ -12,7 +12,7 @@ Formado em Ciências e Tecnologia e me graduando em Engenharia de Telecomunicaç
 
 ## Formação
 - **Bacharelado em Engenharia de Telecomunicações**  
-  Universidade Federal do Rio Grande do Norte (UFRN), previsão de conclusão em 2025
+  Universidade Federal do Rio Grande do Norte (UFRN), previsão de conclusão em 2026
 - **Bacharelado em Ciências e Tecnologia**  
   Universidade Federal do Rio Grande do Norte (UFRN), conclusão em 2022
 
@@ -56,9 +56,11 @@ Formado em Ciências e Tecnologia e me graduando em Engenharia de Telecomunicaç
 
 ## Cursos e Certificações
 - Certificação AWS Cloud Practitioner
-- Fundamentos de AWS - Escola da Nuvem
+- Certificação AWS Developer Associate
+- Certificação FinOps Practitioner
 - Huawei Certified ICT Associate (HCIA) - Routing & Switching
 - DevOps Fundamentals - DIO
+- Fundamentos de AWS - Escola da Nuvem
 - Linux Fundamentals - 4linux
 - Docker Essentials - Linuxtips
 - Gestão de Projetos - Fundação Bradesco
